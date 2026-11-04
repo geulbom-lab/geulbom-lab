@@ -10,13 +10,13 @@
 김나현 지음 · 부크크 · 2026. 10. 30. 출간  
 [책 소개·구매 →](https://bookk.co.kr/bookStore/6ae27f38a7afe5949db8dc82)
 
-### [자료등록 작업실](https://github.com/geulbom-lab/museum-registration)
-엑셀·사진 PDF로 소장품 등록명세서와 월별 현황을 정리합니다.
+### [소장품 등록명세서 자동생성기](https://github.com/geulbom-lab/museum-registration)
+엑셀과 사진 PDF를 불러와 소장품 등록명세서를 만듭니다.
 
 **🏆 2026 문화체육관광부 AI 활용 공모전 우수상**  
 **🏅 2026 문화체육관광부 특별성과 포상 ‘적시타상’**
 
-수상작 「박물관·미술관 소장품 등록명세서 자동생성기」를 월별 현황·파일 분리까지 확장한 공개 버전입니다.  
+수상작 「박물관·미술관 소장품 등록명세서 자동생성기」의 공개 버전입니다.  
 [사용법·소스](https://github.com/geulbom-lab/museum-registration) · [수상 보도](https://www.yna.co.kr/view/AKR20260903014800005)
 
 ### [이 문화유산, 써도 되나요?](https://github.com/geulbom-lab/heritage-guide)
@@ -33,3 +33,4 @@
 
 참여자가 만든 비공식 도구이며, 공식 보고서 양식 자동 작성 기능은 포함하지 않습니다.  
 [사용법·소스](https://github.com/geulbom-lab/project-budget)
+
