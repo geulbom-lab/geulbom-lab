@@ -11,13 +11,14 @@
 [책 소개·구매 →](https://bookk.co.kr/bookStore/6ae27f38a7afe5949db8dc82)
 
 ### [소장품 등록명세서 자동생성기](https://github.com/geulbom-lab/museum-registration)
-엑셀과 사진 PDF를 불러와 소장품 등록명세서를 만듭니다.
+**엑셀과 사진 PDF를 등록명세서로, 반복 입력을 줄이세요.**  
+항목과 사진을 연결해 소장품별 명세서를 만들고, 인쇄하거나 PDF로 저장합니다.
 
 **🏆 2026 문화체육관광부 AI 활용 공모전 우수상**  
 **🏅 2026 문화체육관광부 특별성과 포상 ‘적시타상’**
 
-수상작 「박물관·미술관 소장품 등록명세서 자동생성기」의 공개 버전입니다.  
-[사용법·소스](https://github.com/geulbom-lab/museum-registration) · [수상 보도](https://www.yna.co.kr/view/AKR20260903014800005)
+수상작 「박물관·미술관 소장품 등록명세서 자동생성기」의 공개 버전입니다. 설치 없이 HTML 파일을 브라우저에서 열어 사용하세요.  
+[자동명세서 다운로드](https://github.com/geulbom-lab/museum-registration/raw/refs/heads/main/registration.html) · [사용법·소스](https://github.com/geulbom-lab/museum-registration) · [수상 보도](https://www.yna.co.kr/view/AKR20260903014800005)
 
 ### [이 문화유산, 써도 되나요?](https://github.com/geulbom-lab/heritage-guide)
 문화유산 이미지를 쓰기 전, 이용조건과 출처표시를 확인하는 도구입니다.
