@@ -1,7 +1,16 @@
 ![글봄 실험실 · 문화유산 · AI · 기록](geulbom-header.png)
 
-**문화유산학 박사 김나현**  
+**글봄 실험실 (Geulbom Lab)**
+
+**고려대학교 문학박사(문화유산학 전공) · 김나현**  
 문화유산과 AI, 현장에서 필요한 도구를 만들고 나눕니다.
+
+### 📖 공공기관 실무자를 위한 AI 용어사전
+**실무에 필요한 AI 용어 200선 — 낯선 용어를 익숙한 업무의 말로.**  
+현장에서 AI를 활용하며 만난 용어를 실무자의 눈높이로 풀어 쓴 책입니다.
+
+김나현 지음 · 부크크 · 2026. 10. 30. 출간  
+[책 소개·구매 →](https://bookk.co.kr/bookStore/6ae27f38a7afe5949db8dc82)
 
 ### 바로 사용해 보세요
 
@@ -9,9 +18,21 @@
 
 | 하고 싶은 일 | 도구 | 시작하기 |
 | --- | --- | --- |
-| 문화유산 이미지를 찾고 이용조건 확인하기 | 이 문화유산, 써도 되나요? | [바로 사용하기](https://heritage-guide-nahyun.genesis8651.chatgpt.site/) |
 | 엑셀과 사진 PDF로 등록명세서 만들기 | 소장품 등록명세서 자동생성기 | [바로 사용하기](https://geulbom-lab.github.io/museum-registration/registration.html) |
+| 문화유산 이미지를 찾고 이용조건 확인하기 | 이 문화유산, 써도 되나요? | [바로 사용하기](https://heritage-guide-nahyun.genesis8651.chatgpt.site/) |
 | 예산·지출·증빙 위치·작업일지 기록하기 | 예산과 작업기록 | [바로 사용하기](https://geulbom-lab.github.io/project-budget/) |
+
+### 소장품 등록명세서 자동생성기
+
+**엑셀과 사진 PDF를 등록명세서로, 반복 입력을 줄이세요.**  
+파일을 불러오고 항목과 사진 연결을 확인한 뒤, 소장품별 명세서를 인쇄하거나 PDF로 저장합니다.
+
+**🏆 2026 문화체육관광부 「문화행정 혁신을 위한 인공지능(AI) 활용 공모전」 우수상**  
+**🏅 2026 문화체육관광부 특별성과 포상 ‘적시타상’**
+
+수상작 「박물관·미술관 소장품 등록명세서 자동생성기」의 공개 버전입니다. 공개본은 등록명세서 생성 기능만 제공합니다. 실제 소장품 자료와 사진은 포함하지 않습니다.
+
+**[▶ 바로 사용하기](https://geulbom-lab.github.io/museum-registration/registration.html)** · [사용 안내·소스코드](https://github.com/geulbom-lab/museum-registration) · [HTML 파일 다운로드](https://github.com/geulbom-lab/museum-registration/raw/refs/heads/main/registration.html) · [수상 보도](https://www.yna.co.kr/view/AKR20260903014800005)
 
 ### 이 문화유산, 써도 되나요?
 
@@ -20,24 +41,12 @@
 
 찾는 이미지와 사용 목적 입력 → 이미지 선택 → 이용조건·출처 확인
 
-**2026 모두의 AI 실험실 AI 서비스 개발 프로젝트 선정 · 시험 서비스 운영 중**  
-과학기술정보통신부·한국지능정보사회진흥원(NIA)의 AI 개발자원과 전문가 멘토링을 지원받아 개발하고 있습니다.
+**2026 모두의 AI 실험실 선정 · 시험 운영 중**  
+과학기술정보통신부·한국지능정보사회진흥원(NIA) 지원으로 개발하고 있습니다.
 
 이용조건을 확인하는 보조 도구입니다. 최종 사용 전 기관 원문과 권리 관계를 확인하세요.
 
 **[▶ 바로 사용하기](https://heritage-guide-nahyun.genesis8651.chatgpt.site/)** · [사용 안내·소스코드](https://github.com/geulbom-lab/heritage-guide) · [사업 안내](https://www.korea.kr/news/policyNewsView.do?newsId=148972887)
-
-### 소장품 등록명세서 자동생성기
-
-**엑셀과 사진 PDF를 등록명세서로, 반복 입력을 줄이세요.**  
-파일을 불러오고 항목과 사진 연결을 확인한 뒤, 소장품별 명세서를 인쇄하거나 PDF로 저장합니다.
-
-**🏆 2026 문화체육관광부 AI 활용 공모전 우수상**  
-**🏅 2026 문화체육관광부 특별성과 포상 ‘적시타상’**
-
-수상작 「박물관·미술관 소장품 등록명세서 자동생성기」의 공개 버전입니다. 공개본은 등록명세서 생성 기능만 제공합니다. 실제 소장품 자료와 사진은 포함하지 않습니다.
-
-**[▶ 바로 사용하기](https://geulbom-lab.github.io/museum-registration/registration.html)** · [사용 안내·소스코드](https://github.com/geulbom-lab/museum-registration) · [HTML 파일 다운로드](https://github.com/geulbom-lab/museum-registration/raw/refs/heads/main/registration.html) · [수상 보도](https://www.yna.co.kr/view/AKR20260903014800005)
 
 ### 예산과 작업기록
 
@@ -50,9 +59,3 @@
 
 **[▶ 바로 사용하기](https://geulbom-lab.github.io/project-budget/)** · [사용 안내·소스코드](https://github.com/geulbom-lab/project-budget)
 
-### 📖 공공기관 실무자를 위한 AI 용어사전
-**실무에 필요한 AI 용어 200선 — 낯선 용어를 익숙한 업무의 말로.**  
-현장에서 AI를 활용하며 만난 용어를 실무자의 눈높이로 풀어 쓴 책입니다.
-
-김나현 지음 · 부크크 · 2026. 10. 30. 출간  
-[책 소개·구매 →](https://bookk.co.kr/bookStore/6ae27f38a7afe5949db8dc82)
