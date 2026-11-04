@@ -3,6 +3,8 @@
 **글봄 실험실 (Geulbom Lab)**
 
 **고려대학교 문학박사(문화유산학 전공) · 김나현**  
+Nahyun Kim · Ph.D. in Cultural Heritage Studies, Korea University
+
 문화유산과 AI, 현장에서 필요한 도구를 만들고 나눕니다.
 
 ### 📖 공공기관 실무자를 위한 AI 용어사전
