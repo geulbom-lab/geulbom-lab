@@ -1,13 +1,18 @@
-# Geulbom Lab · 글봄
+# 글봄 실험실 · Geulbom Lab
 
-**김나현 · 문화유산학 박사**
+**문화유산학 박사 김나현**
+문화유산과 AI, 현장에서 필요한 도구를 만들고 나눕니다.
 
-문화유산 연구와 기록, 콘텐츠와 실무에 필요한 도구를 만듭니다.
+### [이 문화유산, 써도 되나요?](https://github.com/geulbom-lab/heritage-guide)
+**과학기술정보통신부 「모두의 AI 실험실」 지원 프로젝트**
+문화유산 이미지를 쓰기 전, 이용조건과 출처표시를 확인하세요.
 
-| 도구 | 하는 일 |
-|---|---|
-| [자료등록 작업실](https://github.com/geulbom-lab/museum-registration) | 등록명세서 생성 · 월별 현황 · 엑셀/PDF 분리 |
-| [예산과 작업기록](https://github.com/geulbom-lab/project-budget) | 지원사업 예산 · 지출 · 증빙 · 작업일지 관리 |
-| [이 문화유산, 써도 되나요?](https://github.com/geulbom-lab/heritage-guide) | 문화유산 이미지 검색 · 이용조건 · 출처표시 |
+### [자료등록 작업실](https://github.com/geulbom-lab/museum-registration)
+**문화체육관광부 수상 프로젝트**
+반복되는 자료등록 업무를 줄이세요. 엑셀·사진 PDF로 명세서와 월별 현황을 정리합니다.
 
-사용법과 소스는 각 저장소에서 확인할 수 있습니다.
+### [모두의 AI 실험실 · 예산과 작업기록](https://github.com/geulbom-lab/project-budget)
+**AI 실험은 즐겁게, 보고서 준비는 간편하게.**
+모두의 AI 실험실 참여자를 위해 지출·증빙·작업기록을 한곳에 모았습니다. 보고서에 필요한 기록을 미리 정리하세요.
+
+각 저장소에서 사용법과 소스를 확인할 수 있습니다. 예산 도구는 참여자가 만든 비공식 도구이며, 공식 보고서 양식 자동 작성 기능은 포함하지 않습니다.
