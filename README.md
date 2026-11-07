@@ -20,9 +20,21 @@ Nahyun Kim · Ph.D. in Cultural Heritage Studies, Korea University
 
 | 하고 싶은 일 | 도구 | 시작하기 |
 | --- | --- | --- |
+| 슬라이드와 발표 대본을 두 화면으로 나눠 발표하기 | HTML 발표자 보기 | [바로 사용하기](https://geulbom-lab.github.io/html-presenter/) |
 | 엑셀과 사진 PDF로 등록명세서 만들기 | 소장품 등록명세서 자동생성기 | [바로 사용하기](https://geulbom-lab.github.io/museum-registration/registration.html) |
 | 문화유산 이미지를 찾고 이용조건 확인하기 | 이 문화유산, 써도 되나요? | [바로 사용하기](https://heritage-guide-nahyun.genesis8651.chatgpt.site/) |
 | 예산·지출·증빙 위치·작업일지 기록하기 | 예산과 작업기록 | [바로 사용하기](https://geulbom-lab.github.io/project-budget/) |
+
+### HTML 발표자 보기
+
+**청중에게는 슬라이드를, 내 노트북에는 대본과 다음 장을.**  
+HTML 파일 하나로 듀얼 모니터 발표를 준비하는 템플릿입니다. 발표자 화면에서 현재 장·다음 장·대본·배정 시간·타이머를 확인할 수 있습니다.
+
+**발표자 화면** 버튼으로 별도 창을 열고, 모니터를 확장해 각 창을 옮기세요. 청중 화면은 **전체화면 버튼 또는 F 키**로 크게 띄울 수 있습니다.
+
+예시 슬라이드 7장의 제목과 대본을 바꿔 내 발표로 사용할 수 있습니다. 파일을 내려받으면 오프라인에서도 실행되며, PDF 저장·인쇄를 지원합니다.
+
+**[▶ 바로 사용하기](https://geulbom-lab.github.io/html-presenter/)** · [사용설명서](https://github.com/geulbom-lab/html-presenter/blob/main/GUIDE.md) · [템플릿·소스코드](https://github.com/geulbom-lab/html-presenter)
 
 ### 소장품 등록명세서 자동생성기
 
@@ -60,4 +72,5 @@ Nahyun Kim · Ph.D. in Cultural Heritage Studies, Korea University
 참여자가 만든 비공식 도구이며, 증빙 파일 자체 저장·OCR·공식 제출서식 자동생성 기능은 포함하지 않습니다.
 
 **[▶ 바로 사용하기](https://geulbom-lab.github.io/project-budget/)** · [사용 안내·소스코드](https://github.com/geulbom-lab/project-budget)
+
 
